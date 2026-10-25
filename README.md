@@ -1,3 +1,7 @@
+<div align="center">
+  <img src=".github/assets/banner.svg" alt="ourday — Indonesian wedding platform: invitations, QR check-in, planner." width="100%">
+</div>
+
 # OurDay
 
 Platform pernikahan untuk Indonesia: **satu daftar tamu, satu token per tamu, tiga kejadian** (dikirimi, RSVP, hadir).

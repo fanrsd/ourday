@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="ourday">
+<defs>
+<radialGradient id="g1" cx="88%" cy="105%" r="75%"><stop offset="0" stop-color="#24157a" stop-opacity=".6"/><stop offset="1" stop-color="#24157a" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="2%" cy="-10%" r="55%"><stop offset="0" stop-color="#5fe0f0" stop-opacity=".10"/><stop offset="1" stop-color="#5fe0f0" stop-opacity="0"/></radialGradient>
+<linearGradient id="live" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7a1a" stop-opacity=".45"/><stop offset=".55" stop-color="#24157a" stop-opacity=".55"/><stop offset="1" stop-color="#5fe0f0" stop-opacity=".22"/></linearGradient>
+</defs>
+<rect width="1200" height="300" fill="#000"/>
+<rect width="1200" height="300" fill="url(#g1)"/>
+<rect width="1200" height="300" fill="url(#g2)"/>
+<rect x="748" y="42" width="412" height="216" rx="18" fill="#07070a" fill-opacity=".72" stroke="#24157a"/>
+<circle cx="78" cy="90" r="4" fill="#5fe0f0"><animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="92" y="96" font-family="Consolas,monospace" font-size="17" fill="#5fe0f0">fanrsd/ourday</text>
+<text x="70" y="152" font-family="'Segoe UI',system-ui,sans-serif" font-size="52" font-weight="700" fill="#f2f3ee">ourday</text>
+<rect x="70" y="170" width="64" height="5" rx="2.5" fill="#ff7a1a"/>
+<text x="70" y="210" font-family="'Segoe UI',system-ui,sans-serif" font-size="21" fill="#9aa0a6">Indonesian wedding platform: invitations, QR check-in, planner.</text>
+<rect x="70" y="238" width="94" height="30" rx="15" fill="#0b0b0c" stroke="#2c2c2e"/><circle cx="86" cy="253" r="5" fill="#e8e8e8"/><text x="99" y="259" font-family="Consolas,monospace" font-size="15" fill="#cfd2cb">Next.js</text><rect x="173.8" y="238" width="122" height="30" rx="15" fill="#0b0b0c" stroke="#2c2c2e"/><circle cx="189.8" cy="253" r="5" fill="#5fe0f0"/><text x="202.8" y="259" font-family="Consolas,monospace" font-size="15" fill="#cfd2cb">PostgreSQL</text>
+
+<rect x="770" y="64" width="126" height="160" rx="8" fill="#0d0d10" stroke="#2c2c2e"/>
+<circle cx="816" cy="94" r="10" fill="none" stroke="#ff7a1a"/><circle cx="838" cy="94" r="10" fill="none" stroke="#ff7a1a"/>
+<rect x="790" y="116" width="86" height="6" rx="3" fill="#3a3a42"/>
+<rect x="790" y="130" width="60" height="6" rx="3" fill="#26262b"/>
+<rect x="790" y="152" width="86" height="4" rx="2" fill="#24157a"/>
+<rect x="790" y="164" width="70" height="4" rx="2" fill="#24157a"/>
+<rect x="790" y="192" width="52" height="16" rx="8" fill="#ff7a1a" fill-opacity=".2" stroke="#ff7a1a" stroke-opacity=".6"/>
+<rect x="920" y="76" width="84" height="84" rx="6" fill="#0d0d10" stroke="#2c2c2e"/>
+<rect x="930" y="86" width="20" height="20" rx="3" fill="none" stroke="#5fe0f0" stroke-width="2"/>
+<rect x="974" y="86" width="20" height="20" rx="3" fill="none" stroke="#5fe0f0" stroke-width="2"/>
+<rect x="930" y="130" width="20" height="20" rx="3" fill="none" stroke="#5fe0f0" stroke-width="2"/>
+<rect x="958" y="118" width="8" height="8" fill="#5fe0f0"/><rect x="974" y="134" width="8" height="8" fill="#5fe0f0"/><rect x="986" y="118" width="8" height="8" fill="#5fe0f0"/>
+<rect x="1024" y="76" width="114" height="26" rx="8" fill="#0b0b0c" stroke="#222226"/>
+<rect x="1036" y="86" width="62" height="5" rx="2.5" fill="#3a3a42"/><circle cx="1122" cy="89" r="4" fill="#5fe0f0"/>
+<rect x="1024" y="110" width="114" height="26" rx="8" fill="#0b0b0c" stroke="#222226"/>
+<rect x="1036" y="120" width="44" height="5" rx="2.5" fill="#3a3a42"/><circle cx="1122" cy="123" r="4" fill="#ff7a1a"/>
+<rect x="1024" y="144" width="114" height="26" rx="8" fill="#0b0b0c" stroke="#222226"/>
+<rect x="1036" y="154" width="72" height="5" rx="2.5" fill="#3a3a42"/><circle cx="1122" cy="157" r="4" fill="#3a3a42"/>
+<text x="1024" y="196" font-family="Consolas,monospace" font-size="12" fill="#6c6f74">one token</text>
+</svg>
